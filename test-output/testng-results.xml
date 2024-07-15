@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-15T15:58:40 IST" name="Default suite" finished-at="2024-07-15T15:58:52 IST" duration-ms="12108">
+    <groups>
+    </groups>
+    <test started-at="2024-07-15T15:58:40 IST" name="Default test" finished-at="2024-07-15T15:58:52 IST" duration-ms="12108">
+      <class name="CryptocurrencyWallet.CryptocurrencyWallet">
+        <test-method signature="Calculatetransactionfeesandreturnestimatedcostt()[pri:0, instance:CryptocurrencyWallet.CryptocurrencyWallet@32502377]" started-at="2024-07-15T15:58:40 IST" name="Calculatetransactionfeesandreturnestimatedcostt" finished-at="2024-07-15T15:58:46 IST" duration-ms="5452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calculatetransactionfeesandreturnestimatedcostt -->
+        <test-method signature="Getanobjectwithallavailablecurrencyexchangerates()[pri:0, instance:CryptocurrencyWallet.CryptocurrencyWallet@32502377]" started-at="2024-07-15T15:58:46 IST" name="Getanobjectwithallavailablecurrencyexchangerates" finished-at="2024-07-15T15:58:47 IST" duration-ms="1263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Getanobjectwithallavailablecurrencyexchangerates -->
+        <test-method signature="List_all_the_transactions_done_bytheuser()[pri:0, instance:CryptocurrencyWallet.CryptocurrencyWallet@32502377]" started-at="2024-07-15T15:58:47 IST" name="List_all_the_transactions_done_bytheuser" finished-at="2024-07-15T15:58:48 IST" duration-ms="1235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- List_all_the_transactions_done_bytheuser -->
+        <test-method signature="Login_the_userandgenerate_session_token()[pri:0, instance:CryptocurrencyWallet.CryptocurrencyWallet@32502377]" started-at="2024-07-15T15:58:48 IST" name="Login_the_userandgenerate_session_token" finished-at="2024-07-15T15:58:49 IST" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_the_userandgenerate_session_token -->
+        <test-method signature="Registerauserandcreatehis_herwallet()[pri:0, instance:CryptocurrencyWallet.CryptocurrencyWallet@32502377]" started-at="2024-07-15T15:58:49 IST" name="Registerauserandcreatehis_herwallet" finished-at="2024-07-15T15:58:50 IST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registerauserandcreatehis_herwallet -->
+        <test-method signature="Retrieve_the_wallet_balance()[pri:0, instance:CryptocurrencyWallet.CryptocurrencyWallet@32502377]" started-at="2024-07-15T15:58:50 IST" name="Retrieve_the_wallet_balance" finished-at="2024-07-15T15:58:51 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Retrieve_the_wallet_balance -->
+        <test-method signature="Transfer5ETHtoarecipient()[pri:0, instance:CryptocurrencyWallet.CryptocurrencyWallet@32502377]" started-at="2024-07-15T15:58:51 IST" name="Transfer5ETHtoarecipient" finished-at="2024-07-15T15:58:52 IST" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Transfer5ETHtoarecipient -->
+      </class> <!-- CryptocurrencyWallet.CryptocurrencyWallet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
