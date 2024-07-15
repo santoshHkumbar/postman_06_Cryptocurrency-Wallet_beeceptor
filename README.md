@@ -2,11 +2,11 @@
 
 # beeceptor APITESTING
 Validate all the requests present inside this link: https://app.beeceptor.com/mock-server/crypto-wallet-server
-
+ ## Spring Tool Suite 
  ## Directory Structure
 Spring Tool Suite-package explores-postman_06_eva_04/ ├─ CryptocurrencyWallet/ ├─ CryptocurrencyWallet.java
 
-# This are Requests to be Validated using Postman and Rest Assured
+# This are Requests to be Validated Spring Tool Suite  useing Rest Assured
     Register a user and create their wallet.
     Login the user and generate a session token.
     Retrieve the wallet balance.
@@ -33,7 +33,7 @@ Spring Tool Suite-package explores-postman_06_eva_04/ ├─ CryptocurrencyWalle
 Cypressapi-Cypress-Intergation/ ├─ testing/ ├─beeceptor.js
  ## cypress.config.js 
  ![image](https://github.com/user-attachments/assets/095af689-e276-4c61-a2ac-8e4d7bd8e9d2)
-# Implement the Following Tasks Rest Assured API  Test result
+# Implement the Following Tasks Rest Cypress API and   Test result
 ![image](https://github.com/user-attachments/assets/e40e4a8d-48e3-4906-9deb-d1b8f5cc01cd)
 
 
